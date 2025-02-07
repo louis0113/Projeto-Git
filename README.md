@@ -24,10 +24,10 @@ Configuração para salvar credenciais
 
 `git config --global credential.helper store`
 
-__Essa configuração habilita as credencais como um token <br> de autenticação ficarem salvas permanentemnte __
+__Essa configuração habilita as credencais como um token <br> de autenticação ficarem salvas permanentemnte__
 
 `git config --global credential.helper cache`
 
-__Essa configuração permite que as credenciais como um token fiquem salvas até 15 minutos_
+__Essa configuração permite que as credenciais como um token fiquem salvas até 15 minutos__
 
-_
+
