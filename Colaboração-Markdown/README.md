@@ -24,4 +24,16 @@ __Essa configuração permite que as credenciais como um token fiquem salvas at�
 
 ## Comandos Principais
 
+## Olá Mundo(começar apagar por aqui)
 
+__Estou livre da maldição__
+
+__Certo e agora?__
+```
+n = float(input('Digite uma nota: '))
+n2 = float(input('Digite outra nota: '))
+
+media = (n + n2)/2
+
+print('A media foi {}'.format(media))
+```
