@@ -1,4 +1,4 @@
-#GIT: Configurações e comandos principais
+# GIT: Configurações e comandos principais
 
 ## Configuração 
 
@@ -21,5 +21,7 @@ __Essa configuração habilita as credencais como um token <br> de autenticaçã
 `git config --global credential.helper cache`
 
 __Essa configuração permite que as credenciais como um token fiquem salvas até 15 minutos__
+
+## Comandos Principais
 
 
