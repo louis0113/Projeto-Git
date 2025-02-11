@@ -24,44 +24,28 @@ __Essa configuração permite que as credenciais como um token fiquem salvas at�
 
 ## Comandos Principais
 
-## Olá Mundo(começar apagar por aqui)
 
-__Estou livre da maldição__
-
-__Certo e agora?__
-```
-n = float(input('Digite uma nota: '))
-n2 = float(input('Digite outra nota: '))
-
-media = (n + n2)/2
-
-print('A media foi {}'.format(media))
-```
-
-## Ciclo de vida de mudanças no codigo com GIT
-
-
-## Fazer um clone do codigo-fonte
+### Fazer um clone do codigo-fonte
 
 `git clone https://github.com/louis0113/Projeto-Git.git`
 
-## Salvar mudanças
+### Salvar mudanças
 
 `git add .`
 
-## Salvar commit com mensagem
+### Salvar commit com mensagem
 
 `git commit -m "v0.1"`
 
-## Adicionar git remota
+### Adicionar git remota
 
 `git remote add origin`
 
-## Mandar mudanças para o repositorio remoto
+### Mandar mudanças para o repositorio remoto
 
 `git push origin main`
 
-## Atualizar repositório local
+### Atualizar repositório local
 
 `git pull origin main` 
 
