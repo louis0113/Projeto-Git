@@ -37,3 +37,31 @@ media = (n + n2)/2
 
 print('A media foi {}'.format(media))
 ```
+
+## Ciclo de vida de mudanças no codigo com GIT
+
+
+## Fazer um clone do codigo-fonte
+
+`git clone https://github.com/louis0113/Projeto-Git.git`
+
+## Salvar mudanças
+
+`git add .`
+
+## Salvar commit com mensagem
+
+`git commit -m "v0.1"`
+
+## Adicionar git remota
+
+`git remote add origin`
+
+## Mandar mudanças para o repositorio remoto
+
+`git push origin main`
+
+## Atualizar repositório local
+
+`git pull origin main` 
+
